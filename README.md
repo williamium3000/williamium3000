@@ -28,12 +28,9 @@ Chinese: 黎羿江 Pronunciation: Yee Jee-ahng Lee
 
 
 <p align="center">
-    <a href="https://scholar.google.com/citations?user=Dx3z0m8AAAAJ&hl=en" target="_blank"><img alt="Homepage" src="https://img.shields.io/badge/-Homepage-white?logo=bookstack
-    "></a>
-    <a href="https://williamium3000.github.io/" target="_blank"><img alt="Homepage" src="https://img.shields.io/badge/-gscholar-white?logo=googlescholar&color=white
-    "></a>
-    <a href="https://github.com/williamium3000" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-Github-black?logo=GitHub
-    "></a>
+    <a href="https://scholar.google.com/citations?user=Dx3z0m8AAAAJ&hl=en" target="_blank"><img alt="Homepage" src="https://img.shields.io/badge/-Homepage-white?logo=bookstack"></a>
+    <a href="https://williamium3000.github.io/" target="_blank"><img alt="Homepage" src="https://img.shields.io/badge/-gscholar-white?logo=googlescholar&color=white"></a>
+    <a href="https://github.com/williamium3000" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-Github-black?logo=GitHub"></a>
     <a href="https://www.linkedin.com/in/yijiang-li-36795b271/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="https://www.zhihu.com/people/william-58-31" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Zhihu-white?logo=zhihu"></a>
    
@@ -66,8 +63,7 @@ Chinese: 黎羿江 Pronunciation: Yee Jee-ahng Lee
 
 
 <p align="center">
-    <a href="https://github.com/williamium3000?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/-followers-white?logo=openvpn&logoColor=blue&color=white
-    "></a>
+    <a href="https://github.com/williamium3000?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/-followers-white?logo=openvpn&logoColor=blue&color=white"></a>
     <a href="https://github.com/williamium3000" target="_blank"><img alt="kaiagaoqy" src="https://badges.pufler.dev/visits/williamium3000/williamium3000?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
     <a href="https://github.com/williamium3000" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/williamium3000/williamium3000?label=hits&style=flat-square"></a>
     <a href="https://github.com/williamium3000/williamium3000" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/williamium3000/williamium3000?label=Updated&style=flat-square"></a>
