@@ -67,7 +67,6 @@ Pronunciation: Yee Jee-ahng Lee
 <p align="center">
     <a href="https://github.com/williamium3000?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/-followers-white?logo=openvpn&logoColor=blue&color=white"></a>
     <a href="https://github.com/williamium3000" target="_blank"><img alt="kaiagaoqy" src="https://badges.pufler.dev/visits/williamium3000/williamium3000?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <a href="https://github.com/williamium3000" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/williamium3000/williamium3000?label=hits&style=flat-square"></a>
     <a href="https://github.com/williamium3000/williamium3000" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/williamium3000/williamium3000?label=updated&style=flat-square"></a>
 </p>
 
