@@ -1,5 +1,7 @@
 ## 👋 Hi, I’m Yijiang Li (aka William Li)
-Chinese: 黎羿江 Pronunciation: Yee Jee-ahng Lee
+
+Chinese: 黎羿江
+Pronunciation: Yee Jee-ahng Lee
 
 **I am**
 - An incoming PhD Student at UC SanDiego
@@ -11,7 +13,7 @@ Chinese: 黎羿江 Pronunciation: Yee Jee-ahng Lee
   - Sample efficient, trustworthy and generalizable
   - Multi-modal (vision-language) & Diffusion model
   - 3D vision & Embodiment
-- Travelling
+- Traveling
 - Football ([@Real Madrid CF](https://www.realmadrid.com/en-US))
 - NBA ([@Lakers](https://x.com/Lakers))
 
@@ -66,7 +68,7 @@ Chinese: 黎羿江 Pronunciation: Yee Jee-ahng Lee
     <a href="https://github.com/williamium3000?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/-followers-white?logo=openvpn&logoColor=blue&color=white"></a>
     <a href="https://github.com/williamium3000" target="_blank"><img alt="kaiagaoqy" src="https://badges.pufler.dev/visits/williamium3000/williamium3000?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
     <a href="https://github.com/williamium3000" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/williamium3000/williamium3000?label=hits&style=flat-square"></a>
-    <a href="https://github.com/williamium3000/williamium3000" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/williamium3000/williamium3000?label=Updated&style=flat-square"></a>
+    <a href="https://github.com/williamium3000/williamium3000" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/williamium3000/williamium3000?label=updated&style=flat-square"></a>
 </p>
 
 <!--<details>
