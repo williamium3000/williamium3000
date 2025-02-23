@@ -4,7 +4,7 @@ Chinese: 黎羿江
 Pronunciation: Yee Jee-ahng Lee
 
 **I am**
-- First year PhD Student at UC SanDiego
+- A first year PhD Student at UC SanDiego
 - A MSE of Computer Science at Johns Hopkins University
 - A BE of Computer Science in South China University of Technology
 
