@@ -20,7 +20,6 @@ Pronunciation: Yee Jee-ahng Lee
 
 📫 How to reach me:
 - Email: yijiangli@ucsd.edu / liyijiang3000@gmail.com
-- WeChat: williamium3000
 
 
 <!-- <div align="center">
